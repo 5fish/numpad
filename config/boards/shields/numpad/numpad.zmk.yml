@@ -1,0 +1,8 @@
+file_format: "1"
+id: numpad
+name: Numpad
+type: shield
+url: https://github.com/5fish/numpad/
+requires: [pro_micro]
+features:
+  - keys
